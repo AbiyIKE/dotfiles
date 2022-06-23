@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = abiy.bekele@ingka.ikea.com
+	name = Abiy Bekele
